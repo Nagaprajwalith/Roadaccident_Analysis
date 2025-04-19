@@ -16,7 +16,7 @@ The aim of this project is to analyze road traffic accident (RTA) data, specific
 - Understand the gender distribution of casualties.
 - Use interactive visualizations to highlight differences.
 - Provide an easy-to-understand analysis using Python tools.
-- 
+  
 ## 🔧 Technologies Used
 
 - Python 3.12
@@ -41,7 +41,7 @@ fig.show()
 # Casualty Analysis
 
 ## Number of Casualties by Gender
-![Casualties by Gender]("C:\Users\NAGA PRAJWALITH\Pictures\Screenshots\Screenshot 2025-04-19 160639.png")
+![Casualties by Gender](Screenshot.png)
 
 ## 🧠 Skills Demonstrated
 
